@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://gosprint-digital.local/sitemap_index.xml
+Sitemap: https://gosprint.digital/sitemap_index.xml
